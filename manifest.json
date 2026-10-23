@@ -1,0 +1,7 @@
+{
+  "version": "8.2",
+  "label": "1.2",
+  "notes": "Onglet Tâches, Suivi des vols et vie à bord, Pilotes et qualifications, Grande visite, Marché du kérosène, 9 nouveaux avions, Nouvelles icônes",
+  "windows": { "url": "https://raw.githubusercontent.com/SharkSharki12/airlinesimulator/maj/AirlineSimulator-1.2.exe", "sha256": "8807d82e34927ec0b1ba2321962cc7b09edf4c510869eb2f7bdb53a02794b9ef" },
+  "android": { "url": "https://raw.githubusercontent.com/SharkSharki12/airlinesimulator/maj/AirlineSimulator-1.2.apk", "versionCode": 14 }
+}
